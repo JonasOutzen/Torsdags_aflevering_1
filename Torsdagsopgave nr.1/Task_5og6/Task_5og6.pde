@@ -41,7 +41,7 @@ void draw() {
   x = circleSize*counter;
   y = circleSize*rowCounter;
 
-  // Initialiseret farverne på de første cirkler
+  // Farverne på de første cirkler
   if (counter==0) {
     r = (int)random(255);
     g = (int)random(255);
