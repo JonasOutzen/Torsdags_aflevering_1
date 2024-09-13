@@ -13,7 +13,9 @@ for (int input = number; input >= 0; input--)
  }
  */
 
-int number = 10;
+// For at have en konstant:
+int number = 12;
+// Inputtet skifter værdi pr. loop
 int input = number;
 
 // Positive tal
@@ -23,12 +25,12 @@ if (input >= 0) {
     if (input != 6 && input != number / 2) {
       print(input + " ");
     }
-    
+
     // Printer half
     if (input == number / 2) {
       print("HALF! ");
     }
-    
+
     // Printer six
     if  (input == 6) {
       print("six ");
