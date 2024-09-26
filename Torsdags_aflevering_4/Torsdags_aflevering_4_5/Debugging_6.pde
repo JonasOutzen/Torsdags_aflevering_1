@@ -1,0 +1,24 @@
+/* //Slet stjernen for at se om koden virker
+
+boolean jobsDone = true;
+
+void setup()
+{
+    
+    println(getRandomNumber(0, 10));
+    if (isJobDone())
+    {
+        println("Job's done!");   
+    }
+}
+
+boolean isJobDone()
+{
+    return jobsDone;    
+}
+
+int getRandomNumber(int min, int max) 
+{
+    return (int)random(min, max);
+}
+*/
