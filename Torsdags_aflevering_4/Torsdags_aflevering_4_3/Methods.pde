@@ -1,7 +1,7 @@
 class TopRappers {
 
   String[] myTopRappers = {
-    "Eminem", "TravisScott", "YunoMiles", "JuiceWRLD", "Kanye" };
+    "Eminem", "TravisScott", "YunoMiles", "JuiceWRLD", "Sir Kanye West" };
 
   String[]myTopHits = {"Mockingbird", "FEIN", "Pirates on a boat", "Burn", "Lift Yourself"};
   //Kan virkelig anbefale Pirates on a boat med Yuno Miles - meget underrated rapper...
